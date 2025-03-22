@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+dist/
+
+# Variables de entorno
+.env
+
+# Archivos generados
+generated/*
+!generated/.gitkeep
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Cobertura
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
